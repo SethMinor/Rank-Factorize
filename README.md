@@ -1,6 +1,8 @@
 # Rank-Factorize
 A low-level approach to computing the rank factorization of a given matrix- an exercise in understanding matrix factorizations.
 
-The 'RankFacotrize.py' python source code includes a NumPy-based saga.
+The 'RankFacotrize.py' python source code documents my NumPy-based saga.
+
+The 'GS' algorithm included in the script was not developed by me.
 
 Try it on a given m x n matrix!
